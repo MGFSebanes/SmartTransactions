@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/SmartTransactions/static/css/main.c2f35fda.css",
+    "main.js": "/SmartTransactions/static/js/main.233a6892.js",
+    "static/js/787.1a408128.chunk.js": "/SmartTransactions/static/js/787.1a408128.chunk.js",
+    "static/media/image.png": "/SmartTransactions/static/media/image.a179b0febbec81847842.png",
+    "static/media/user1.png": "/SmartTransactions/static/media/user1.81d4960106cbad5dc673.png",
+    "static/media/office1.png": "/SmartTransactions/static/media/office1.c32ccf07f46b2d0b9496.png",
+    "static/media/slider_img3.jpg": "/SmartTransactions/static/media/slider_img3.ceeb894c6347e2ff44d3.jpg",
+    "static/media/pup.png": "/SmartTransactions/static/media/pup.96c679fe22035407d1de.png",
+    "static/media/post6.jpg": "/SmartTransactions/static/media/post6.8c1cc8e47b74b540c033.jpg",
+    "static/media/slider_img2.jpg": "/SmartTransactions/static/media/slider_img2.40bb24263f2c3f2145f7.jpg",
+    "static/media/slider_img1.jpg": "/SmartTransactions/static/media/slider_img1.0ae5e6ede40e24f5a30b.jpg",
+    "static/media/post1.jpg": "/SmartTransactions/static/media/post1.0def917faef58963f3fd.jpg",
+    "static/media/post4.jpg": "/SmartTransactions/static/media/post4.cd6c653db643ee5c0e00.jpg",
+    "static/media/slider_img4.jpg": "/SmartTransactions/static/media/slider_img4.c42d7777fa514b58f514.jpg",
+    "static/media/post5.jpg": "/SmartTransactions/static/media/post5.a719ec04d2687a81baa9.jpg",
+    "static/media/office.jpg": "/SmartTransactions/static/media/office.92744fd42f566c6d5341.jpg",
+    "static/media/slider.jpg": "/SmartTransactions/static/media/slider.70a488472e869cc0c2f2.jpg",
+    "static/media/post2.jpg": "/SmartTransactions/static/media/post2.ec0b99d69505a0e79ac7.jpg",
+    "static/media/logo.svg": "/SmartTransactions/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SmartTransactions/index.html",
+    "main.c2f35fda.css.map": "/SmartTransactions/static/css/main.c2f35fda.css.map",
+    "main.233a6892.js.map": "/SmartTransactions/static/js/main.233a6892.js.map",
+    "787.1a408128.chunk.js.map": "/SmartTransactions/static/js/787.1a408128.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2f35fda.css",
+    "static/js/main.233a6892.js"
+  ]
+}
