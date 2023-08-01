@@ -34,7 +34,7 @@ const App = () => {
         left: 0,
         top: 0,
         bottom: 0,
-        background:"#2c3E50"
+        background:"#2c3E50",
                
         
       }}
